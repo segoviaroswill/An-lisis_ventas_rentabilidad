@@ -89,6 +89,6 @@ Estas tablas fueron exportadas y utilizadas como base para el modelo de Power BI
 ---
 
 ## 👤 Autor
-**Roswill**  
+**Roswill Segovia**  
 Junior Data Analyst — Madrid, España  
 Enfoque en SQL, Power BI y análisis de negocio.
